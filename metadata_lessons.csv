@@ -1,0 +1,5 @@
+module,lesson,lesson_file_package,lesson_file_course,package,pkg_version
+Day 1,r_rstudio_server_setup,r_rstudio_server_setup.qmd,s01_r_rstudio_server_setup.qmd,lhLessons,2024.11.07
+Day 1,git_setup,git_setup.qmd,s02_git_setup.qmd,lhLessons,2024.11.07
+Day 1,r_programming_introduction,r_programming_introduction.qmd,s03_r_programming_introduction.qmd,lhLessons,2024.11.07
+Day 1,r_quarto_literate_analysis,r_quarto_literate_analysis.qmd,s04_r_quarto_literate_analysis.qmd,lhLessons,2024.11.07
